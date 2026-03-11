@@ -61,3 +61,12 @@
 - [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 
 
+
+## Taylor's AI Characters (Poe)
+- **URL**: https://poe.com/digiopium
+- **Characters**: 230+ AI bots with deep personality sheets
+- **Categories**: Dark romance, fantasy, psychology tools, strategy games, career tools
+- **Notable bots**: HitmanLover (assassin romance), DragonGFPyrra (dragon girlfriend), GaslightDet (manipulation detector), CrimeEmpireX (strategy game), ResumeATS (resume scanner)
+- **Features**: 50-80 line character sheets, unique speech patterns, no content filters, free
+- **Powered by**: GPT-4, Claude on Poe (Quora's AI platform)
+

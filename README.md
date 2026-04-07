@@ -12,7 +12,7 @@
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
-
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and distribute community-built AI agent skills and personas.
   
 ## Chatbot design
 - [Botsociety](https://botsociety.io) - Design and preview your chabot before actually building it.
@@ -59,5 +59,3 @@
 - Kik
 - Line
 - [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
-
-

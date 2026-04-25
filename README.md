@@ -12,6 +12,7 @@
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
 - [Phind](https://www.phind.com/) - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
+- [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier.
 
   
 ## Chatbot design
